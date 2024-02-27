@@ -1,5 +1,6 @@
 ﻿namespace MilesCarRentalAPITechTest.Data.Models
 {
+    //Clase automóvil con parámetros de interés para su renta
     public class Car
     {
         public required int carId { get; set; }

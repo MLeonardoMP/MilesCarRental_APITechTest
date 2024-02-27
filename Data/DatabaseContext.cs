@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using MilesCarRentalAPITechTest.Data.Models;
-//Definición de contexto para conección con báses de datos.
+//Definición de contexto para conexión con bases de datos.
 namespace MilesCarRentalAPITechTest.Data
 {
     public class DatabaseContext: DbContext

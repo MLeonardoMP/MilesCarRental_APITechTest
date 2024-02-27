@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|c:\\users\\usuario\\onedrive - universidad nacional de colombia\\documents\\repos\\tech tests\\milescarrental_apitechtest\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|c:\\users\\usuario\\onedrive - universidad nacional de colombia\\documents\\repos\\tech tests\\milescarrental_apitechtest\\data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|solutionrelative:data\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|c:\\users\\usuario\\onedrive - universidad nacional de colombia\\documents\\repos\\tech tests\\milescarrental_apitechtest\\controllers\\carrentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|solutionrelative:controllers\\carrentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|c:\\users\\usuario\\onedrive - universidad nacional de colombia\\documents\\repos\\tech tests\\milescarrental_apitechtest\\models\\carlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|solutionrelative:models\\carlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|c:\\users\\usuario\\onedrive - universidad nacional de colombia\\documents\\repos\\tech tests\\milescarrental_apitechtest\\models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|solutionrelative:models\\market.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|c:\\users\\usuario\\onedrive - universidad nacional de colombia\\documents\\repos\\tech tests\\milescarrental_apitechtest\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|solutionrelative:models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|c:\\users\\usuario\\onedrive - universidad nacional de colombia\\documents\\repos\\tech tests\\milescarrental_apitechtest\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|c:\\users\\usuario\\onedrive - universidad nacional de colombia\\documents\\repos\\tech tests\\milescarrental_apitechtest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F3E56FE-EFD4-45E1-BF34-8F8B0739D0A4}|MilesCarRental_APITechTest.csproj|c:\\users\\usuario\\onedrive - universidad nacional de colombia\\documents\\repos\\tech tests\\milescarrental_apitechtest\\milescarrental_apitechtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -18,29 +46,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 274,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarList.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Models\\CarList.cs",
+              "RelativeDocumentMoniker": "Models\\CarList.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Models\\CarList.cs",
+              "RelativeToolTip": "Models\\CarList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:47:34.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Market.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Models\\Market.cs",
+              "RelativeDocumentMoniker": "Models\\Market.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Models\\Market.cs*",
+              "RelativeToolTip": "Models\\Market.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:45:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Models\\Location.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Models\\Location.cs*",
+              "RelativeToolTip": "Models\\Location.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:44:46.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Models\\Car.cs*",
+              "RelativeToolTip": "Models\\Car.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T17:46:15.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\README.md*",
+              "RelativeToolTip": "README.md*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-02-27T18:21:39.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarRentController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Controllers\\CarRentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarRentController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Controllers\\CarRentController.cs",
+              "RelativeToolTip": "Controllers\\CarRentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:08:55.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-27T17:55:11.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DatabaseContext.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Data\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "Data\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Data\\DatabaseContext.cs",
-              "RelativeToolTip": "Data\\DatabaseContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\Data\\DatabaseContext.cs*",
+              "RelativeToolTip": "Data\\DatabaseContext.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T17:40:18.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "MilesCarRental_APITechTest",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\MilesCarRental_APITechTest.csproj",
               "RelativeDocumentMoniker": "MilesCarRental_APITechTest.csproj",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\MilesCarRental_APITechTest.csproj*",
-              "RelativeToolTip": "MilesCarRental_APITechTest.csproj*",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive - Universidad Nacional de Colombia\\Documents\\Repos\\Tech Tests\\MilesCarRental_APITechTest\\MilesCarRental_APITechTest.csproj",
+              "RelativeToolTip": "MilesCarRental_APITechTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-02-27T17:34:29.095Z",
