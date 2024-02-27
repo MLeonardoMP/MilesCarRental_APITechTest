@@ -11,7 +11,8 @@ Hola, a continuación, les contaré cuál fue la metodología base utilizada para el
 	4. `CarList.cs`: Clase de utilidad para almacenar la lista final de vehículos a retornar y 3 parámetros adicionales para la paginación y la búsqueda.
 * `CarRentController.cs`: Archivo principal de la API contiene todo lo necesario para que esta funcione correctamente, desde la definición de la ruta de acceso, configuraciones, conexión con base de datos y el método `GetRentCars` para retornar la lista de automóviles deseada según los criterios de búsqueda y paginación.
 * `DatabaseContext.cs`: Definición del context para la conexión con bases de datos y definición inicial de conjuntos de datos de los modelos para interactuar con ellos en el controlador.
-
+### Notas
+* El desarrollo de está api se realizó con .Net 8 y Visual Studio 2022
 # Documentación de la API de alquiler de autos
 
 ## Descripción
