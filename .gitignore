@@ -1,0 +1,47 @@
+﻿# Visual Studio specific files
+[Dd]ebug/ # Build output
+[Rr]elease/
+[Ss]olutionItems/
+*.suo
+*.user
+*.sln.docstates
+*.vsidx
+# Build artifacts
+**/[Bb]in/
+**/[Oo]bj/
+
+# Test results
+**/TestResults/
+[Bb]uild[Ll]og.*
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# NuGet packages
+**/[Pp]ackages/
+**/[Nn]uGet.Config
+
+# User-specific files
+*.cache
+
+# ASP.NET Core publish output
+*.publish.xml
+
+# Visual Studio Code specific files
+.vscode/
+
+# dotnet CLI tools cache
+**/.dotnet/tools/
+
+# API documentation (optional)
+**/[Ss]wagger.json
+**/[Oo]penApi.json
+
+# Any other files or folders you want to exclude
+# Add them here
+
+# Added for .NET 8:
+**/[Cc]odeGeneration.csproj # Code generation project
+**/[Nn]uGet.config.fallback  # NuGet fallback config
+**/[Rr]untimeConfig.json     # Runtime configuration file
+**/[Pp]ublishing.xml        # Publish profile (optional)
